@@ -1,6 +1,6 @@
 #include <iostream>
 
-/* when using "new", we use "delete" as well to avoid memory leaks */
+/* when using "new", use "delete" as well to avoid memory leaks */
 
 void memoryLeak()
 {
